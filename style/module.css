@@ -1,5 +1,12 @@
 div{
-    background-color: rgb(155, 153, 153);
-    border: 1px solid black;
+   
+    border: 2px solid black;
     text-align: center;
+   
+    
+}
+header , footer {
+    background-color: aqua;
+    color: black;
+    padding: 20px;
 }

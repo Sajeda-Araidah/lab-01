@@ -1,4 +1,72 @@
-@media(min-width:960px){
+section .div_a{
+    display: grid;
+    height: 70px;
+
+background-color: rgba(223, 192, 54, 0.884);
+   
+
+}
+section .div_b{
+    display: grid;
+    height: 150px;
+    background-color: rgb(179, 100, 26);
+   
+
+}
+section .div_c{
+    display: grid;
+    height: 152px;
+    background-color: rgb(202, 199, 16);
+   
+
+} section .div_b{
+    display: grid;
+    height: 150px;
+    background-color:rgb(228, 129, 17);
+   
+} section .div_e{
+    display: grid;
+    height: 150px;
+    background-color: rgb(22, 22, 230);
+   
+
+} section .div_f{
+    display: grid;
+    height: 150px;
+    background-color: rgb(241, 60, 145);
+   
+
+}section .div_g{
+    display: grid;
+    height: 150px;
+    background-color: rgb(70, 185, 17);
+   
+
+} section .div_h{
+    display: grid;
+    height: 150px;
+    background-color:rgb(196, 199, 9);
+   
+
+
+
+} section .four{
+    display: grid;
+     
+    grid-template-columns:50% 50%;
+    
+    
+    
+   
+
+}
+section .div_i{
+display: grid;
+height: 80px;
+background-color: rgb(190, 226, 31);
+
+
+}@media( min-width:481px) and ( max-width:960px){
    
 
       body {
@@ -86,7 +154,7 @@
 
 }}
 
-@media (max-width:480px){
+@media (min-width:0px) and (max-width:480px){
 
     body {
         display: flex;

@@ -1,5 +1,6 @@
-
-html {
-    display: table;
+body{
     margin: auto;
 }
+* {
+    box-sizing: border-box;
+  }
